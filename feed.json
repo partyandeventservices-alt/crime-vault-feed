@@ -1,0 +1,126 @@
+{
+  "providerName": "Crime Vault TV",
+  "language": "en",
+  "lastUpdated": "2026-04-07T12:00:00Z",
+
+  "categories": [
+    { "name": "Featured", "playlistName": "featured" },
+    { "name": "Crime Movies", "playlistName": "movies" },
+    { "name": "Crime TV", "playlistName": "crime_tv" },
+    { "name": "Detective Series", "playlistName": "detective" },
+    { "name": "Police Files", "playlistName": "police" },
+    { "name": "Courtroom Drama", "playlistName": "court" }
+  ],
+
+  "movies": [
+    {
+      "id": "detour_1945",
+      "title": "Detour",
+      "shortDescription": "A drifter is pulled into a deadly crime.",
+      "longDescription": "A classic noir film exploring fate, guilt, and deception.",
+      "thumbnail": "https://archive.org/download/detour/detour.jpg",
+      "releaseDate": "1945-01-01",
+      "genres": ["Crime","Drama"],
+      "tags": ["movies","featured"],
+      "content": {
+        "dateAdded": "2026-04-07T12:00:00Z",
+        "videos": [
+          {
+            "url": "https://archive.org/download/detour/Detour_512kb.mp4",
+            "videoType": "MP4",
+            "quality": "SD"
+          }
+        ]
+      }
+    },
+    {
+      "id": "scarlet_street_1945",
+      "title": "Scarlet Street",
+      "shortDescription": "A man is drawn into obsession and crime.",
+      "longDescription": "A dark noir tale of manipulation and betrayal.",
+      "thumbnail": "https://archive.org/download/scarlet_street/scarlet.jpg",
+      "releaseDate": "1945-01-01",
+      "genres": ["Crime","Noir"],
+      "tags": ["movies"],
+      "content": {
+        "dateAdded": "2026-04-07T12:00:00Z",
+        "videos": [
+          {
+            "url": "https://archive.org/download/scarlet_street/Scarlet_Street_512kb.mp4",
+            "videoType": "MP4",
+            "quality": "SD"
+          }
+        ]
+      }
+    }
+  ],
+
+  "series": [
+    {
+      "id": "dragnet_series",
+      "title": "Dragnet",
+      "shortDescription": "Classic police procedural following LAPD detectives.",
+      "genres": ["Crime"],
+      "tags": ["crime_tv","police","featured"],
+      "episodes": [
+        {
+          "id": "dragnet_ep1",
+          "title": "The Big Trunk",
+          "shortDescription": "Detectives investigate a homicide case.",
+          "thumbnail": "https://archive.org/download/dragnet_big_trunk/dragnet.jpg",
+          "content": {
+            "dateAdded": "2026-04-07T12:00:00Z",
+            "videos": [
+              {
+                "url": "https://archive.org/download/dragnet_big_trunk/dragnet_big_trunk_512kb.mp4",
+                "videoType": "MP4",
+                "quality": "SD"
+              }
+            ]
+          }
+        },
+        {
+          "id": "dragnet_ep2",
+          "title": "The Big September Man",
+          "shortDescription": "A search for a dangerous suspect.",
+          "thumbnail": "https://archive.org/download/dragnet_september/dragnet.jpg",
+          "content": {
+            "dateAdded": "2026-04-07T12:00:00Z",
+            "videos": [
+              {
+                "url": "https://archive.org/download/dragnet_september/dragnet_september_512kb.mp4",
+                "videoType": "MP4",
+                "quality": "SD"
+              }
+            ]
+          }
+        }
+      ]
+    },
+
+    {
+      "id": "sherlock_series",
+      "title": "Sherlock Holmes",
+      "shortDescription": "Classic detective mysteries.",
+      "genres": ["Crime","Mystery"],
+      "tags": ["crime_tv","detective"],
+      "episodes": [
+        {
+          "id": "sherlock_ep1",
+          "title": "The Case of the Cunningham Heritage",
+          "shortDescription": "Holmes investigates a strange case.",
+          "thumbnail": "https://archive.org/download/sherlock_holmes_case/sherlock.jpg",
+          "content": {
+            "dateAdded": "2026-04-07T12:00:00Z",
+            "videos": [
+              {
+                "url": "https://archive.org/download/sherlock_holmes_case/sherlock_512kb.mp4",
+                "videoType": "MP4",
+                "quality": "SD"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
