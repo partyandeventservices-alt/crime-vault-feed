@@ -1,55 +1,72 @@
 {
   "providerName": "Crime Vault TV",
   "language": "en",
-  "lastUpdated": "2026-04-07T12:00:00Z",
+  "lastUpdated": "2026-04-08T12:00:00Z",
 
   "categories": [
     { "name": "Featured", "playlistName": "featured" },
     { "name": "Crime Movies", "playlistName": "movies" },
-    { "name": "Crime TV", "playlistName": "crime_tv" },
     { "name": "Detective Series", "playlistName": "detective" },
-    { "name": "Police Files", "playlistName": "police" },
-    { "name": "Courtroom Drama", "playlistName": "court" }
+    { "name": "Police Files", "playlistName": "police" }
   ],
 
   "movies": [
     {
-      "id": "detour_1945",
+      "id": "detour",
       "title": "Detour",
       "shortDescription": "A drifter is pulled into a deadly crime.",
-      "longDescription": "A classic noir film exploring fate, guilt, and deception.",
       "thumbnail": "https://archive.org/download/detour/detour.jpg",
-      "releaseDate": "1945-01-01",
-      "genres": ["Crime","Drama"],
+      "genres": ["Crime"],
       "tags": ["movies","featured"],
       "content": {
-        "dateAdded": "2026-04-07T12:00:00Z",
+        "dateAdded": "2026-04-08T12:00:00Z",
         "videos": [
-          {
-            "url": "https://archive.org/download/detour/Detour_512kb.mp4",
-            "videoType": "MP4",
-            "quality": "SD"
-          }
+          { "url": "https://archive.org/download/detour/Detour_512kb.mp4", "videoType": "MP4" }
         ]
       }
     },
+
     {
-      "id": "scarlet_street_1945",
+      "id": "scarlet_street",
       "title": "Scarlet Street",
-      "shortDescription": "A man is drawn into obsession and crime.",
-      "longDescription": "A dark noir tale of manipulation and betrayal.",
+      "shortDescription": "A man falls into obsession and crime.",
       "thumbnail": "https://archive.org/download/scarlet_street/scarlet.jpg",
-      "releaseDate": "1945-01-01",
-      "genres": ["Crime","Noir"],
+      "genres": ["Crime"],
       "tags": ["movies"],
       "content": {
-        "dateAdded": "2026-04-07T12:00:00Z",
+        "dateAdded": "2026-04-08T12:00:00Z",
         "videos": [
-          {
-            "url": "https://archive.org/download/scarlet_street/Scarlet_Street_512kb.mp4",
-            "videoType": "MP4",
-            "quality": "SD"
-          }
+          { "url": "https://archive.org/download/scarlet_street/Scarlet_Street_512kb.mp4", "videoType": "MP4" }
+        ]
+      }
+    },
+
+    {
+      "id": "doa",
+      "title": "D.O.A.",
+      "shortDescription": "A man searches for his own killer.",
+      "thumbnail": "https://archive.org/download/doa/doa.jpg",
+      "genres": ["Crime"],
+      "tags": ["movies"],
+      "content": {
+        "dateAdded": "2026-04-08T12:00:00Z",
+        "videos": [
+          { "url": "https://archive.org/download/doa/D.O.A._512kb.mp4", "videoType": "MP4" }
+        ]
+      }
+    },
+
+    {
+      "id": "stranger",
+      "title": "The Stranger",
+      "shortDescription": "A war crimes investigator tracks a fugitive.",
+      "thumbnail": "https://archive.org/download/thestranger/thestranger.jpg",
+      "genres": ["Crime"],
+      "tags": ["movies"],
+      "content": {
+        "dateAdded": "2026-04-08T12:00:00Z",
+        "videos": [
+          { "url": "https://archive.org/download/thestranger/The_Stranger_512kb.mp4", "videoType": "MP4" }
         ]
       }
     }
@@ -57,41 +74,41 @@
 
   "series": [
     {
-      "id": "dragnet_series",
+      "id": "dragnet",
       "title": "Dragnet",
-      "shortDescription": "Classic police procedural following LAPD detectives.",
       "genres": ["Crime"],
-      "tags": ["crime_tv","police","featured"],
+      "tags": ["detective","police","featured"],
       "episodes": [
         {
-          "id": "dragnet_ep1",
+          "id": "dragnet1",
           "title": "The Big Trunk",
-          "shortDescription": "Detectives investigate a homicide case.",
           "thumbnail": "https://archive.org/download/dragnet_big_trunk/dragnet.jpg",
           "content": {
-            "dateAdded": "2026-04-07T12:00:00Z",
+            "dateAdded": "2026-04-08T12:00:00Z",
             "videos": [
-              {
-                "url": "https://archive.org/download/dragnet_big_trunk/dragnet_big_trunk_512kb.mp4",
-                "videoType": "MP4",
-                "quality": "SD"
-              }
+              { "url": "https://archive.org/download/dragnet_big_trunk/dragnet_big_trunk_512kb.mp4", "videoType": "MP4" }
             ]
           }
         },
         {
-          "id": "dragnet_ep2",
+          "id": "dragnet2",
           "title": "The Big September Man",
-          "shortDescription": "A search for a dangerous suspect.",
           "thumbnail": "https://archive.org/download/dragnet_september/dragnet.jpg",
           "content": {
-            "dateAdded": "2026-04-07T12:00:00Z",
+            "dateAdded": "2026-04-08T12:00:00Z",
             "videos": [
-              {
-                "url": "https://archive.org/download/dragnet_september/dragnet_september_512kb.mp4",
-                "videoType": "MP4",
-                "quality": "SD"
-              }
+              { "url": "https://archive.org/download/dragnet_september/dragnet_september_512kb.mp4", "videoType": "MP4" }
+            ]
+          }
+        },
+        {
+          "id": "dragnet3",
+          "title": "The Big Phone Call",
+          "thumbnail": "https://archive.org/download/dragnet_phone/dragnet.jpg",
+          "content": {
+            "dateAdded": "2026-04-08T12:00:00Z",
+            "videos": [
+              { "url": "https://archive.org/download/dragnet_phone/dragnet_phone_512kb.mp4", "videoType": "MP4" }
             ]
           }
         }
@@ -99,28 +116,34 @@
     },
 
     {
-      "id": "sherlock_series",
+      "id": "sherlock",
       "title": "Sherlock Holmes",
-      "shortDescription": "Classic detective mysteries.",
       "genres": ["Crime","Mystery"],
-      "tags": ["crime_tv","detective"],
+      "tags": ["detective"],
       "episodes": [
         {
-          "id": "sherlock_ep1",
+          "id": "sherlock1",
           "title": "The Case of the Cunningham Heritage",
-          "shortDescription": "Holmes investigates a strange case.",
-          "thumbnail": "https://archive.org/download/sherlock_holmes_case/sherlock.jpg",
+          "thumbnail": "https://archive.org/download/sherlock_case/sherlock.jpg",
           "content": {
-            "dateAdded": "2026-04-07T12:00:00Z",
+            "dateAdded": "2026-04-08T12:00:00Z",
             "videos": [
-              {
-                "url": "https://archive.org/download/sherlock_holmes_case/sherlock_512kb.mp4",
-                "videoType": "MP4",
-                "quality": "SD"
-              }
+              { "url": "https://archive.org/download/sherlock_case/sherlock_512kb.mp4", "videoType": "MP4" }
+            ]
+          }
+        },
+        {
+          "id": "sherlock2",
+          "title": "The Case of the Red-Headed League",
+          "thumbnail": "https://archive.org/download/sherlock_red/sherlock.jpg",
+          "content": {
+            "dateAdded": "2026-04-08T12:00:00Z",
+            "videos": [
+              { "url": "https://archive.org/download/sherlock_red/sherlock_red_512kb.mp4", "videoType": "MP4" }
             ]
           }
         }
       ]
     }
   ]
+}
