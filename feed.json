@@ -25,7 +25,6 @@
         ]
       }
     },
-
     {
       "id": "scarlet_street",
       "title": "Scarlet Street",
@@ -40,7 +39,6 @@
         ]
       }
     },
-
     {
       "id": "doa",
       "title": "D.O.A.",
@@ -55,7 +53,6 @@
         ]
       }
     },
-
     {
       "id": "stranger",
       "title": "The Stranger",
@@ -67,6 +64,34 @@
         "dateAdded": "2026-04-08T12:00:00Z",
         "videos": [
           { "url": "https://archive.org/download/thestranger/The_Stranger_512kb.mp4", "videoType": "MP4" }
+        ]
+      }
+    },
+    {
+      "id": "hollow_triumph",
+      "title": "Hollow Triumph",
+      "shortDescription": "A criminal assumes a psychiatrist’s identity.",
+      "thumbnail": "https://archive.org/download/hollow_triumph/hollow.jpg",
+      "genres": ["Crime"],
+      "tags": ["movies"],
+      "content": {
+        "dateAdded": "2026-04-08T12:00:00Z",
+        "videos": [
+          { "url": "https://archive.org/download/hollow_triumph/Hollow_512kb.mp4", "videoType": "MP4" }
+        ]
+      }
+    },
+    {
+      "id": "beat_the_devil",
+      "title": "Beat the Devil",
+      "shortDescription": "Con artists chase a fortune abroad.",
+      "thumbnail": "https://archive.org/download/beat_the_devil/beat.jpg",
+      "genres": ["Crime"],
+      "tags": ["movies"],
+      "content": {
+        "dateAdded": "2026-04-08T12:00:00Z",
+        "videos": [
+          { "url": "https://archive.org/download/beat_the_devil/Beat_512kb.mp4", "videoType": "MP4" }
         ]
       }
     }
@@ -111,6 +136,17 @@
               { "url": "https://archive.org/download/dragnet_phone/dragnet_phone_512kb.mp4", "videoType": "MP4" }
             ]
           }
+        },
+        {
+          "id": "dragnet4",
+          "title": "The Big Little Jesus",
+          "thumbnail": "https://archive.org/download/dragnet_little/dragnet.jpg",
+          "content": {
+            "dateAdded": "2026-04-08T12:00:00Z",
+            "videos": [
+              { "url": "https://archive.org/download/dragnet_little/dragnet_little_512kb.mp4", "videoType": "MP4" }
+            ]
+          }
         }
       ]
     },
@@ -134,12 +170,23 @@
         },
         {
           "id": "sherlock2",
-          "title": "The Case of the Red-Headed League",
+          "title": "The Red-Headed League",
           "thumbnail": "https://archive.org/download/sherlock_red/sherlock.jpg",
           "content": {
             "dateAdded": "2026-04-08T12:00:00Z",
             "videos": [
               { "url": "https://archive.org/download/sherlock_red/sherlock_red_512kb.mp4", "videoType": "MP4" }
+            ]
+          }
+        },
+        {
+          "id": "sherlock3",
+          "title": "The Speckled Band",
+          "thumbnail": "https://archive.org/download/sherlock_band/sherlock.jpg",
+          "content": {
+            "dateAdded": "2026-04-08T12:00:00Z",
+            "videos": [
+              { "url": "https://archive.org/download/sherlock_band/sherlock_band_512kb.mp4", "videoType": "MP4" }
             ]
           }
         }
