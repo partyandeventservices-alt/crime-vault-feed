@@ -1,0 +1,425 @@
+{
+  "providerName": "Crime Vault TV",
+  "lastUpdated": "2026-04-14T12:00:00Z",
+  "language": "en",
+
+  "movies": [
+    {
+      "id": "m1",
+      "title": "The Stranger",
+      "releaseDate": "1946-01-01",
+      "genres": ["Crime", "Drama"],
+      "description": "A war crimes investigator tracks a fugitive.",
+      "duration": 5700,
+      "thumbnail": "https://archive.org/download/stranger_1946/stranger_1946.thumbs/stranger_1946_000001.jpg",
+      "content": { "videos": [{ "url": "https://archive.org/download/stranger_1946/stranger_1946.mp4", "quality": "HD", "videoType": "MP4" }] }
+    },
+    {
+      "id": "m2",
+      "title": "D.O.A.",
+      "releaseDate": "1950-01-01",
+      "genres": ["Crime", "Mystery"],
+      "description": "A poisoned man searches for his killer.",
+      "duration": 5000,
+      "thumbnail": "https://archive.org/download/doa1950/doa1950.thumbs/doa1950_000001.jpg",
+      "content": { "videos": [{ "url": "https://archive.org/download/doa1950/doa1950.mp4", "quality": "HD", "videoType": "MP4" }] }
+    },
+    {
+      "id": "m3",
+      "title": "Detour",
+      "releaseDate": "1945-01-01",
+      "genres": ["Film Noir"],
+      "description": "A man is pulled into a deadly situation.",
+      "duration": 4200,
+      "thumbnail": "https://archive.org/download/detour_1945/detour_1945.thumbs/detour_1945_000001.jpg",
+      "content": { "videos": [{ "url": "https://archive.org/download/detour_1945/detour_1945.mp4", "quality": "HD", "videoType": "MP4" }] }
+    },
+    {
+      "id": "m4",
+      "title": "The Hitch-Hiker",
+      "releaseDate": "1953-01-01",
+      "genres": ["Crime", "Thriller"],
+      "description": "Two men are terrorized by a hitchhiker.",
+      "duration": 4300,
+      "thumbnail": "https://archive.org/download/the-hitch-hiker/the-hitch-hiker.thumbs/the-hitch-hiker_000001.jpg",
+      "content": { "videos": [{ "url": "https://archive.org/download/the-hitch-hiker/the-hitch-hiker.mp4", "quality": "HD", "videoType": "MP4" }] }
+    },
+
+    {
+      "id": "m5",
+      "title": "Impact",
+      "releaseDate": "1949-01-01",
+      "genres": ["Crime"],
+      "description": "A man survives a murder attempt and seeks revenge.",
+      "duration": 6600,
+      "thumbnail": "https://archive.org/download/impact_1949/impact_1949.thumbs/impact_1949_000001.jpg",
+      "content": { "videos": [{ "url": "https://archive.org/download/impact_1949/impact_1949.mp4", "quality": "HD", "videoType": "MP4" }] }
+    },
+
+    {
+      "id": "m6",
+      "title": "Too Late for Tears",
+      "releaseDate": "1949-01-01",
+      "genres": ["Crime"],
+      "description": "A woman keeps stolen money with deadly consequences.",
+      "duration": 6000,
+      "thumbnail": "https://archive.org/download/too-late-for-tears/too-late-for-tears.thumbs/too-late-for-tears_000001.jpg",
+      "content": { "videos": [{ "url": "https://archive.org/download/too-late-for-tears/too-late-for-tears.mp4", "quality": "HD", "videoType": "MP4" }] }
+    },
+
+    {
+      "id": "m7",
+      "title": "Scarlet Street",
+      "releaseDate": "1945-01-01",
+      "genres": ["Crime"],
+      "description": "A man becomes entangled in a deadly relationship.",
+      "duration": 6200,
+      "thumbnail": "https://archive.org/download/scarlet-street/scarlet-street.thumbs/scarlet-street_000001.jpg",
+      "content": { "videos": [{ "url": "https://archive.org/download/scarlet-street/scarlet-street.mp4", "quality": "HD", "videoType": "MP4" }] }
+    },
+
+    {
+      "id": "m8",
+      "title": "The Big Combo",
+      "releaseDate": "1955-01-01",
+      "genres": ["Crime"],
+      "description": "A detective takes on a crime syndicate.",
+      "duration": 5100,
+      "thumbnail": "https://archive.org/download/the-big-combo/the-big-combo.thumbs/the-big-combo_000001.jpg",
+      "content": { "videos": [{ "url": "https://archive.org/download/the-big-combo/the-big-combo.mp4", "quality": "HD", "videoType": "MP4" }] }
+    },
+
+    {
+      "id": "m9",
+      "title": "Kansas City Confidential",
+      "releaseDate": "1952-01-01",
+      "genres": ["Crime"],
+      "description": "A man is framed for a robbery.",
+      "duration": 5900,
+      "thumbnail": "https://archive.org/download/kansas-city-confidential/kansas-city-confidential.thumbs/kansas-city-confidential_000001.jpg",
+      "content": { "videos": [{ "url": "https://archive.org/download/kansas-city-confidential/kansas-city-confidential.mp4", "quality": "HD", "videoType": "MP4" }] }
+    },
+
+    {
+      "id": "m10",
+      "title": "The Sniper",
+      "releaseDate": "1952-01-01",
+      "genres": ["Crime"],
+      "description": "A disturbed man terrorizes a city.",
+      "duration": 5100,
+      "thumbnail": "https://archive.org/download/the-sniper/the-sniper.thumbs/the-sniper_000001.jpg",
+      "content": { "videos": [{ "url": "https://archive.org/download/the-sniper/the-sniper.mp4", "quality": "HD", "videoType": "MP4" }] }
+    },
+
+    {
+      "id": "m11",
+      "title": "He Walked by Night",
+      "releaseDate": "1948-01-01",
+      "genres": ["Crime"],
+      "description": "Police hunt a dangerous criminal.",
+      "duration": 4700,
+      "thumbnail": "https://archive.org/download/he-walked-by-night/he-walked-by-night.thumbs/he-walked-by-night_000001.jpg",
+      "content": { "videos": [{ "url": "https://archive.org/download/he-walked-by-night/he-walked-by-night.mp4", "quality": "HD", "videoType": "MP4" }] }
+    },
+
+    {
+      "id": "m12",
+      "title": "The Stranger Returns",
+      "releaseDate": "1953-01-01",
+      "genres": ["Crime"],
+      "description": "A mysterious stranger disrupts a town.",
+      "duration": 4800,
+      "thumbnail": "https://archive.org/download/the-stranger-returns/the-stranger-returns.thumbs/the-stranger-returns_000001.jpg",
+      "content": { "videos": [{ "url": "https://archive.org/download/the-stranger-returns/the-stranger-returns.mp4", "quality": "HD", "videoType": "MP4" }] }
+    },
+
+    {
+      "id": "m13",
+      "title": "Shock",
+      "releaseDate": "1946-01-01",
+      "genres": ["Crime"],
+      "description": "A woman witnesses a murder and becomes a target.",
+      "duration": 4400,
+      "thumbnail": "https://archive.org/download/shock-1946/shock-1946.thumbs/shock-1946_000001.jpg",
+      "content": { "videos": [{ "url": "https://archive.org/download/shock-1946/shock-1946.mp4", "quality": "HD", "videoType": "MP4" }] }
+    },
+
+    {
+      "id": "m14",
+      "title": "Quicksand",
+      "releaseDate": "1950-01-01",
+      "genres": ["Crime"],
+      "description": "A small mistake leads to escalating crime.",
+      "duration": 4800,
+      "thumbnail": "https://archive.org/download/quicksand/quicksand.thumbs/quicksand_000001.jpg",
+      "content": { "videos": [{ "url": "https://archive.org/download/quicksand/quicksand.mp4", "quality": "HD", "videoType": "MP4" }] }
+    },
+
+    {
+      "id": "m15",
+      "title": "Road to Bali",
+      "releaseDate": "1952-01-01",
+      "genres": ["Adventure", "Crime"],
+      "description": "A comedic adventure with criminal elements.",
+      "duration": 5600,
+      "thumbnail": "https://archive.org/download/road-to-bali/road-to-bali.thumbs/road-to-bali_000001.jpg",
+      "content": { "videos": [{ "url": "https://archive.org/download/road-to-bali/road-to-bali.mp4", "quality": "HD", "videoType": "MP4" }] }
+    },
+
+    {
+      "id": "m16",
+      "title": "The Amazing Mr X",
+      "releaseDate": "1948-01-01",
+      "genres": ["Crime"],
+      "description": "A con artist pretends to contact the dead.",
+      "duration": 4900,
+      "thumbnail": "https://archive.org/download/the-amazing-mr-x/the-amazing-mr-x.thumbs/the-amazing-mr-x_000001.jpg",
+      "content": { "videos": [{ "url": "https://archive.org/download/the-amazing-mr-x/the-amazing-mr-x.mp4", "quality": "HD", "videoType": "MP4" }] }
+    },
+
+    {
+      "id": "m17",
+      "title": "The Phantom Lady",
+      "releaseDate": "1944-01-01",
+      "genres": ["Crime"],
+      "description": "A woman tries to prove a man’s innocence.",
+      "duration": 5100,
+      "thumbnail": "https://archive.org/download/phantom-lady/phantom-lady.thumbs/phantom-lady_000001.jpg",
+      "content": { "videos": [{ "url": "https://archive.org/download/phantom-lady/phantom-lady.mp4", "quality": "HD", "videoType": "MP4" }] }
+    },
+
+    {
+      "id": "m18",
+      "title": "The Case of the Black Cat",
+      "releaseDate": "1936-01-01",
+      "genres": ["Crime"],
+      "description": "A mysterious case involving a stolen cat.",
+      "duration": 3900,
+      "thumbnail": "https://archive.org/download/black-cat-case/black-cat-case.thumbs/black-cat-case_000001.jpg",
+      "content": { "videos": [{ "url": "https://archive.org/download/black-cat-case/black-cat-case.mp4", "quality": "HD", "videoType": "MP4" }] }
+    },
+
+    {
+      "id": "m19",
+      "title": "The Devil Bat",
+      "releaseDate": "1940-01-01",
+      "genres": ["Crime"],
+      "description": "A scientist uses bats to kill victims.",
+      "duration": 4200,
+      "thumbnail": "https://archive.org/download/devil-bat/devil-bat.thumbs/devil-bat_000001.jpg",
+      "content": { "videos": [{ "url": "https://archive.org/download/devil-bat/devil-bat.mp4", "quality": "HD", "videoType": "MP4" }] }
+    },
+
+    {
+      "id": "m20",
+      "title": "The Little Shop of Horrors",
+      "releaseDate": "1960-01-01",
+      "genres": ["Crime"],
+      "description": "A dark comedy involving murder.",
+      "duration": 4300,
+      "thumbnail": "https://archive.org/download/little-shop-horrors/little-shop-horrors.thumbs/little-shop-horrors_000001.jpg",
+      "content": { "videos": [{ "url": "https://archive.org/download/little-shop-horrors/little-shop-horrors.mp4", "quality": "HD", "videoType": "MP4" }] }
+    },
+
+    {
+      "id": "m21",
+      "title": "The Most Dangerous Game",
+      "releaseDate": "1932-01-01",
+      "genres": ["Crime"],
+      "description": "A man hunts humans for sport.",
+      "duration": 3900,
+      "thumbnail": "https://archive.org/download/most-dangerous-game/most-dangerous-game.thumbs/most-dangerous-game_000001.jpg",
+      "content": { "videos": [{ "url": "https://archive.org/download/most-dangerous-game/most-dangerous-game.mp4", "quality": "HD", "videoType": "MP4" }] }
+    },
+
+    {
+      "id": "m22",
+      "title": "White Zombie",
+      "releaseDate": "1932-01-01",
+      "genres": ["Crime"],
+      "description": "A man uses voodoo for evil.",
+      "duration": 4100,
+      "thumbnail": "https://archive.org/download/white-zombie/white-zombie.thumbs/white-zombie_000001.jpg",
+      "content": { "videos": [{ "url": "https://archive.org/download/white-zombie/white-zombie.mp4", "quality": "HD", "videoType": "MP4" }] }
+    },
+
+    {
+      "id": "m23",
+      "title": "The General",
+      "releaseDate": "1926-01-01",
+      "genres": ["Crime"],
+      "description": "A silent film adventure with criminal themes.",
+      "duration": 4800,
+      "thumbnail": "https://archive.org/download/the-general/the-general.thumbs/the-general_000001.jpg",
+      "content": { "videos": [{ "url": "https://archive.org/download/the-general/the-general.mp4", "quality": "HD", "videoType": "MP4" }] }
+    },
+
+    {
+      "id": "m24",
+      "title": "The Gold Rush",
+      "releaseDate": "1925-01-01",
+      "genres": ["Crime"],
+      "description": "Adventure involving survival and conflict.",
+      "duration": 5400,
+      "thumbnail": "https://archive.org/download/gold-rush/gold-rush.thumbs/gold-rush_000001.jpg",
+      "content": { "videos": [{ "url": "https://archive.org/download/gold-rush/gold-rush.mp4", "quality": "HD", "videoType": "MP4" }] }
+    },
+
+    {
+      "id": "m25",
+      "title": "The Man Who Knew Too Much",
+      "releaseDate": "1934-01-01",
+      "genres": ["Crime"],
+      "description": "A family is caught in an assassination plot.",
+      "duration": 4500,
+      "thumbnail": "https://archive.org/download/man-who-knew-too-much/man-who-knew-too-much.thumbs/man-who-knew-too-much_000001.jpg",
+      "content": { "videos": [{ "url": "https://archive.org/download/man-who-knew-too-much/man-who-knew-too-much.mp4", "quality": "HD", "videoType": "MP4" }] }
+    },
+
+    {
+      "id": "m26",
+      "title": "The 39 Steps",
+      "releaseDate": "1935-01-01",
+      "genres": ["Crime"],
+      "description": "A man is pursued by spies.",
+      "duration": 5200,
+      "thumbnail": "https://archive.org/download/39-steps/39-steps.thumbs/39-steps_000001.jpg",
+      "content": { "videos": [{ "url": "https://archive.org/download/39-steps/39-steps.mp4", "quality": "HD", "videoType": "MP4" }] }
+    },
+
+    {
+      "id": "m27",
+      "title": "Sabotage",
+      "releaseDate": "1936-01-01",
+      "genres": ["Crime"],
+      "description": "A woman suspects her husband is a terrorist.",
+      "duration": 4600,
+      "thumbnail": "https://archive.org/download/sabotage/sabotage.thumbs/sabotage_000001.jpg",
+      "content": { "videos": [{ "url": "https://archive.org/download/sabotage/sabotage.mp4", "quality": "HD", "videoType": "MP4" }] }
+    },
+
+    {
+      "id": "m28",
+      "title": "The Lady Vanishes",
+      "releaseDate": "1938-01-01",
+      "genres": ["Crime"],
+      "description": "A woman disappears on a train.",
+      "duration": 5500,
+      "thumbnail": "https://archive.org/download/lady-vanishes/lady-vanishes.thumbs/lady-vanishes_000001.jpg",
+      "content": { "videos": [{ "url": "https://archive.org/download/lady-vanishes/lady-vanishes.mp4", "quality": "HD", "videoType": "MP4" }] }
+    },
+
+    {
+      "id": "m29",
+      "title": "The Lodger",
+      "releaseDate": "1927-01-01",
+      "genres": ["Crime"],
+      "description": "A serial killer terrorizes London.",
+      "duration": 4800,
+      "thumbnail": "https://archive.org/download/lodger/lodger.thumbs/lodger_000001.jpg",
+      "content": { "videos": [{ "url": "https://archive.org/download/lodger/lodger.mp4", "quality": "HD", "videoType": "MP4" }] }
+    },
+
+    {
+      "id": "m30",
+      "title": "His Girl Friday",
+      "releaseDate": "1940-01-01",
+      "genres": ["Crime"],
+      "description": "A fast-talking newsroom drama involving crime.",
+      "duration": 5400,
+      "thumbnail": "https://archive.org/download/his-girl-friday/his-girl-friday.thumbs/his-girl-friday_000001.jpg",
+      "content": { "videos": [{ "url": "https://archive.org/download/his-girl-friday/his-girl-friday.mp4", "quality": "HD", "videoType": "MP4" }] }
+    }
+  ],
+
+  "series": [
+    {
+      "id": "dragnet",
+      "title": "Dragnet",
+      "seasons": [
+        {
+          "seasonNumber": 1,
+          "episodes": [
+            { "id": "e1", "title": "Episode 1", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+            { "id": "e2", "title": "Episode 2", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+            { "id": "e3", "title": "Episode 3", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+
+            { "id": "e4", "title": "Episode 4", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+            { "id": "e5", "title": "Episode 5", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+
+            { "id": "e6", "title": "Episode 6", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+            { "id": "e7", "title": "Episode 7", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+            { "id": "e8", "title": "Episode 8", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+
+            { "id": "e9", "title": "Episode 9", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+            { "id": "e10", "title": "Episode 10", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+
+            { "id": "e11", "title": "Episode 11", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+            { "id": "e12", "title": "Episode 12", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+
+            { "id": "e13", "title": "Episode 13", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+            { "id": "e14", "title": "Episode 14", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+
+            { "id": "e15", "title": "Episode 15", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+
+            { "id": "e16", "title": "Episode 16", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+
+            { "id": "e17", "title": "Episode 17", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+
+            { "id": "e18", "title": "Episode 18", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+
+            { "id": "e19", "title": "Episode 19", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+
+            { "id": "e20", "title": "Episode 20", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+
+            { "id": "e21", "title": "Episode 21", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+            { "id": "e22", "title": "Episode 22", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+            { "id": "e23", "title": "Episode 23", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+
+            { "id": "e24", "title": "Episode 24", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+            { "id": "e25", "title": "Episode 25", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+
+            { "id": "e26", "title": "Episode 26", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+            { "id": "e27", "title": "Episode 27", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+            { "id": "e28", "title": "Episode 28", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+
+            { "id": "e29", "title": "Episode 29", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+            { "id": "e30", "title": "Episode 30", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+
+            { "id": "e31", "title": "Episode 31", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+            { "id": "e32", "title": "Episode 32", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+            { "id": "e33", "title": "Episode 33", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+
+            { "id": "e34", "title": "Episode 34", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+            { "id": "e35", "title": "Episode 35", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+
+            { "id": "e36", "title": "Episode 36", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+            { "id": "e37", "title": "Episode 37", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+            { "id": "e38", "title": "Episode 38", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+
+            { "id": "e39", "title": "Episode 39", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+            { "id": "e40", "title": "Episode 40", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+
+            { "id": "e41", "title": "Episode 41", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+            { "id": "e42", "title": "Episode 42", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+
+            { "id": "e43", "title": "Episode 43", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+            { "id": "e44", "title": "Episode 44", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+
+            { "id": "e45", "title": "Episode 45", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+
+            { "id": "e46", "title": "Episode 46", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+
+            { "id": "e47", "title": "Episode 47", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+
+            { "id": "e48", "title": "Episode 48", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+
+            { "id": "e49", "title": "Episode 49", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } },
+
+            { "id": "e50", "title": "Episode 50", "content": { "videos": [{ "url": "https://archive.org/download/dragnet/dragnet.mp4" }] } }
+          ]
+        }
+      ]
+    }
+  ]
+}
